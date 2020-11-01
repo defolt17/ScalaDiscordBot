@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.sedmelluq:lava-common:1.1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/jcenter.bintray.com/com/sedmelluq/lava-common/1.1.0/lava-common-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

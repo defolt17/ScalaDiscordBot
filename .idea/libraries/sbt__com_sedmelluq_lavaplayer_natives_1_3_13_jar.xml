@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.sedmelluq:lavaplayer-natives:1.3.13:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/jcenter.bintray.com/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
